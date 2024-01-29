@@ -223,7 +223,7 @@
         "BLUE_700": "#331B4C"
     },
     "background": {
-        "blur": 0.75,
+        "blur": 0.6,
         "url": "https://cdn.discordapp.com/attachments/1200082728184455309/1201378952799862815/MTaCLD400RAWsmInternalOp.png?ex=65c99a56&is=65b72556&hm=047679099ef86c8ca698b270c93e590ec2c7523cf6a24ea3a8c9d5f9a8b485f6&",
         "alpha": 0.01
         },
