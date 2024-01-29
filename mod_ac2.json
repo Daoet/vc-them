@@ -223,9 +223,9 @@
         "BLUE_700": "#331B4C"
     },
     "background": {
-        "blur": 1.0,
-        "url": "https://cdn.discordapp.com/attachments/1200082728184455309/1201370695280640140/MTaCLD400.png?ex=65c992a6&is=65b71da6&hm=4fc6a205ae154e0ad87db66d865abee9a4295ec03eceac37cf6398703cd1b9a9&",
-        "alpha": 0.1
+        "blur": 0.5,
+        "url": "https://cdn.discordapp.com/attachments/1200082728184455309/1201372257021349949/MTaCLD400RAWsmall.png?ex=65c9941a&is=65b71f1a&hm=d5816b5067b713b0fd0178a3eb08bb0e68c6f0437b8735c8e7dfdd96aab41b1f&",
+        "alpha": 0.9
         },
     "plus": {
         "version": 0,
