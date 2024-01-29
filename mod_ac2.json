@@ -225,7 +225,7 @@
     "background": {
         "blur": 0.0,
         "url": "https://cdn.discordapp.com/attachments/1200082728184455309/1201364039960367194/MTaCLD.png?ex=65c98c73&is=65b71773&hm=2d771edd7578be91d1f472dc49a02b8c93fdc031c4d9b3814e39961ebfb9bfdd&",
-        "alpha": 0.5
+        "alpha": 0.1
         },
     "plus": {
         "version": 0,
